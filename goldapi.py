@@ -22,6 +22,8 @@ except:
 
 #Set constants
 http = PoolManager()
+
+
 URL = "https://metals-api.com/api/latest?access_key=(access key removed)"
 
 API_KEY = "Enter Access Key Here"
