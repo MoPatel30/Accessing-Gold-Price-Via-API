@@ -22,9 +22,9 @@ except:
 
 #Set constants
 http = PoolManager()
-URL = "https://metals-api.com/api/latest?access_key=kv16sgiend6sbe7ywo2jnas9cl12xc2p2e3yu82hkalstndot3ez162dw12z"
+URL = "https://metals-api.com/api/latest?access_key=(access key removed)"
 
-API_KEY = "kv16sgiend6sbe7ywo2jnas9cl12xc2p2e3yu82hkalstndot3ez162dw12z"
+API_KEY = "Enter Access Key Here"
 
 
 class getgold_price(object):
